@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "web-scraper"
+version = "0.1.0"
+description = "dependencies for web-scraper"
+authors = ["regutierrez <11924623+regutierrez@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
