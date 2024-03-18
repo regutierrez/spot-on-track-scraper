@@ -1,28 +1,34 @@
 import requests
-import bs4
+from bs4 import BeautifulSoup as bs
 
 
-def login_to_site():
+def spotontrack_login():
     login_url: str = "https://www.spotontrack.com/login"
-    username = "gutierrez.rafael23e@gmail.com"
-    password = "decode-armoire-recopy9-donut-unmanaged"
+    username: str = "gutierrez.rafael23e@gmail.com"
+    password: str = "decode-armoire-recopy9-donut-unmanaged"
+    user_agent: str = (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36"
+    )
 
-    with requests.session() as login:
-        request = login.get(login_url).text
-        html = bs4(request, "html.parser")
-        auth_token = html.find(name="input", attrs={"name": "_token"}).get_text()
+    headers: dict[str, str] = {"User-Agent": user_agent}
 
-    payload: dict[str, str] = {
-        "user": username,
-        "password": password,
-        "token": auth_token,
-    }
+    with requests.Session() as session:
+        response_content: str = session.get(login_url, headers=headers)._content
+        html: bs = bs(response_content, "html.parser")
+        auth_token: str = html.find("input", attrs={"name": "_token"}).attrs["value"]
 
-    return login.post(login_url, data=payload)
+        payload: dict[str, str] = {
+            "email": username,
+            "password": password,
+            "_token": auth_token,
+        }
+
+        return session.post(login_url, data=payload)
 
 
 def main():
-    site = login_to_site()
+    site: requests.Response = spotontrack_login()
+    print(site.url, site.status_code)  # should print https://www.spotontrack.com/ 200
 
 
 if __name__ == "__main__":
