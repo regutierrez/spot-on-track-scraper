@@ -50,6 +50,30 @@ def spotontrack_login(username: str, password: str) -> requests.Session:
     return session
 
 
+def get_html_from_playlist_urls(
+    session: requests.Session, playlist_urls: list[str]
+) -> list[bs]:
+    html_list: list[bs] = []
+    # this should accept a list of playlist urls and current session
+    for url in playlist_urls:
+        response_content: bytes | None = session.get(url)._content
+        if response_content is None:
+            raise Exception(f"HTML contents of {url} not found. Quitting script")
+        html_list.append(bs(response_content, "html.parser"))
+
+    return html_list
+
+
+def scrape_countries_from_html(html_list: list[bs]) -> list[str]:
+    # this should accept a str containing the html of the site.
+    # you can get the country code from the src="...AU.png"
+    # test site to scrape = https://www.spotontrack.com/tracks/104662726/playlists
+
+    countries: list[str] = []
+
+    return countries
+
+
 def main():
     username: str = "gutierrez.rafael23e@gmail.com"
     password: str = "decode-armoire-recopy9-donut-unmanaged"
