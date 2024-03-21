@@ -1,0 +1,5993 @@
+{
+  "computedAt": "2024-03-20 13:27:51",
+  "appleCurrent": [
+    {
+      "position": 3,
+      "added_at": "2024-03-15",
+      "nb_tracks": 97,
+      "nb_days": 5,
+      "reentry": false,
+      "playlist": {
+        "name": "Breaking Dance",
+        "id": 13528,
+        "apple_id": "pl.77a913605bba4a968c5cb2b93d87b2ca",
+        "slug": "breaking-dance",
+        "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features115\/v4\/ed\/fa\/e2\/edfae28c-4668-19b0-bb24-242ad3c094d2\/U0MtTVMtV1ctQnJlYWtpbmdfRGFuY2VfRURNLUFEQU1fSUQ9MTEyNDU0MTA4My5wbmc.png\/500x500SC.DN01.jpg?l=en-US",
+        "link": "https:\/\/www.spotontrack.com\/playlists\/apple\/13528",
+        "external_link": "https:\/\/music.apple.com\/us\/playlist\/breaking-dance\/pl.77a913605bba4a968c5cb2b93d87b2ca",
+        "curator": {
+          "id": 13,
+          "name": "Apple Music Dance",
+          "link": "https:\/\/www.spotontrack.com\/curators\/apple\/13",
+          "apple_id": "976439535"
+        },
+        "tags": [
+          "Apple Music"
+        ]
+      },
+      "countries": [
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "dz",
+            "name": "Algeria",
+            "id": 131
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "ao",
+            "name": "Angola",
+            "id": 132
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "ai",
+            "name": "Anguilla",
+            "id": 1
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "ag",
+            "name": "Antigua and Barbuda",
+            "id": 2
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "ar",
+            "name": "Argentina",
+            "id": 3
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "am",
+            "name": "Armenia",
+            "id": 4
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 6,
+          "nb_tracks": 150,
+          "nb_days": 6,
+          "country": {
+            "code": "au",
+            "name": "Australia",
+            "id": 5
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "az",
+            "name": "Azerbaijan",
+            "id": 7
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 6,
+          "country": {
+            "code": "bs",
+            "name": "Bahamas",
+            "id": 133
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bh",
+            "name": "Bahrain",
+            "id": 8
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bb",
+            "name": "Barbados",
+            "id": 9
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 3,
+          "nb_tracks": 111,
+          "nb_days": 5,
+          "country": {
+            "code": "by",
+            "name": "Belarus",
+            "id": 10
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bz",
+            "name": "Belize",
+            "id": 12
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bj",
+            "name": "Benin",
+            "id": 134
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bm",
+            "name": "Bermuda",
+            "id": 13
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bt",
+            "name": "Bhutan",
+            "id": 135
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "bo",
+            "name": "Bolivia",
+            "id": 14
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "bw",
+            "name": "Botswana",
+            "id": 15
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 99,
+          "nb_days": 5,
+          "country": {
+            "code": "br",
+            "name": "Brazil",
+            "id": 16
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "vg",
+            "name": "British Virgin Islands",
+            "id": 17
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kh",
+            "name": "Cambodia",
+            "id": 19
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cm",
+            "name": "Cameroon",
+            "id": 136
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cv",
+            "name": "Cape Verde",
+            "id": 21
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ky",
+            "name": "Cayman Islands",
+            "id": 22
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "td",
+            "name": "Chad",
+            "id": 137
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cl",
+            "name": "Chile",
+            "id": 23
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "co",
+            "name": "Colombia",
+            "id": 25
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cr",
+            "name": "Costa Rica",
+            "id": 26
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ci",
+            "name": "C\u00f4te d'Ivoire",
+            "id": 139
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cd",
+            "name": "Democratic Republic of the\u00a0Congo",
+            "id": 118
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "dk",
+            "name": "Denmark",
+            "id": 29
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "dm",
+            "name": "Dominica",
+            "id": 30
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "do",
+            "name": "Dominican Republic",
+            "id": 31
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ec",
+            "name": "Ecuador",
+            "id": 32
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "eg",
+            "name": "Egypt",
+            "id": 33
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sv",
+            "name": "El Salvador",
+            "id": 34
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "sz",
+            "name": "Eswatini",
+            "id": 98
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 147,
+          "nb_days": 5,
+          "country": {
+            "code": "fj",
+            "name": "Fiji",
+            "id": 36
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "fi",
+            "name": "Finland",
+            "id": 37
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ga",
+            "name": "Gabon",
+            "id": 119
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gm",
+            "name": "Gambia",
+            "id": 39
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ge",
+            "name": "Georgia",
+            "id": 120
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gh",
+            "name": "Ghana",
+            "id": 41
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gd",
+            "name": "Grenada",
+            "id": 43
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gt",
+            "name": "Guatemala",
+            "id": 44
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gw",
+            "name": "Guinea-Bissau",
+            "id": 45
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "gy",
+            "name": "Guyana",
+            "id": 140
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "hn",
+            "name": "Honduras",
+            "id": 46
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "hk",
+            "name": "Hong Kong",
+            "id": 47
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "is",
+            "name": "Iceland",
+            "id": 141
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "in",
+            "name": "India",
+            "id": 49
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "id",
+            "name": "Indonesia",
+            "id": 50
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "iq",
+            "name": "Iraq",
+            "id": 121
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "il",
+            "name": "Israel",
+            "id": 52
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "jm",
+            "name": "Jamaica",
+            "id": 142
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 148,
+          "nb_days": 5,
+          "country": {
+            "code": "jp",
+            "name": "Japan",
+            "id": 54
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "jo",
+            "name": "Jordan",
+            "id": 55
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kz",
+            "name": "Kazakhstan",
+            "id": 56
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ke",
+            "name": "Kenya",
+            "id": 57
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kr",
+            "name": "Korea, Republic of",
+            "id": 58
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kw",
+            "name": "Kuwait",
+            "id": 143
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kg",
+            "name": "Kyrgyzstan",
+            "id": 59
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "la",
+            "name": "Lao People's Democratic Republic",
+            "id": 60
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "lb",
+            "name": "Lebanon",
+            "id": 62
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "lr",
+            "name": "Liberia",
+            "id": 144
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "ly",
+            "name": "Libya",
+            "id": 145
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mo",
+            "name": "Macao",
+            "id": 65
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mg",
+            "name": "Madagascar",
+            "id": 146
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mw",
+            "name": "Malawi",
+            "id": 147
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "my",
+            "name": "Malaysia",
+            "id": 66
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "mv",
+            "name": "Maldives",
+            "id": 148
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ml",
+            "name": "Mali",
+            "id": 149
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mr",
+            "name": "Mauritania",
+            "id": 150
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "mu",
+            "name": "Mauritius",
+            "id": 68
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mx",
+            "name": "Mexico",
+            "id": 69
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 148,
+          "nb_days": 5,
+          "country": {
+            "code": "fm",
+            "name": "Micronesia, Federated States of",
+            "id": 70
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "md",
+            "name": "Moldova",
+            "id": 71
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mn",
+            "name": "Mongolia",
+            "id": 72
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ms",
+            "name": "Montserrat",
+            "id": 151
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ma",
+            "name": "Morocco",
+            "id": 125
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mz",
+            "name": "Mozambique",
+            "id": 152
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "mm",
+            "name": "Myanmar",
+            "id": 153
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "na",
+            "name": "Namibia",
+            "id": 154
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "np",
+            "name": "Nepal",
+            "id": 73
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 6,
+          "nb_tracks": 150,
+          "nb_days": 5,
+          "country": {
+            "code": "nz",
+            "name": "New Zealand",
+            "id": 75
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ni",
+            "name": "Nicaragua",
+            "id": 76
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ne",
+            "name": "Niger",
+            "id": 77
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ng",
+            "name": "Nigeria",
+            "id": 78
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "no",
+            "name": "Norway",
+            "id": 79
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "om",
+            "name": "Oman",
+            "id": 80
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "pa",
+            "name": "Panama",
+            "id": 81
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 147,
+          "nb_days": 5,
+          "country": {
+            "code": "pg",
+            "name": "Papua New Guinea",
+            "id": 82
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "py",
+            "name": "Paraguay",
+            "id": 83
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "pe",
+            "name": "Peru",
+            "id": 84
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ph",
+            "name": "Philippines",
+            "id": 85
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "qa",
+            "name": "Qatar",
+            "id": 156
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "cg",
+            "name": "Republic of the\u00a0Congo",
+            "id": 157
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 3,
+          "nb_tracks": 97,
+          "nb_days": 5,
+          "country": {
+            "code": "ru",
+            "name": "Russia",
+            "id": 89
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "rw",
+            "name": "Rwanda",
+            "id": 127
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sa",
+            "name": "Saudi Arabia",
+            "id": 90
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sn",
+            "name": "Senegal",
+            "id": 158
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sc",
+            "name": "Seychelles",
+            "id": 160
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sl",
+            "name": "Sierra Leone",
+            "id": 161
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sg",
+            "name": "Singapore",
+            "id": 91
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 147,
+          "nb_days": 5,
+          "country": {
+            "code": "sb",
+            "name": "Solomon Islands",
+            "id": 162
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "za",
+            "name": "South Africa",
+            "id": 94
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "lk",
+            "name": "Sri Lanka",
+            "id": 96
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "kn",
+            "name": "St. Kitts and Nevis",
+            "id": 97
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "lc",
+            "name": "St. Lucia",
+            "id": 163
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "vc",
+            "name": "St. Vincent and The Grenadines",
+            "id": 164
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "sr",
+            "name": "Suriname",
+            "id": 165
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "se",
+            "name": "Sweden",
+            "id": 99
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tw",
+            "name": "Taiwan",
+            "id": 101
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tj",
+            "name": "Tajikistan",
+            "id": 102
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tz",
+            "name": "Tanzania",
+            "id": 166
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "th",
+            "name": "Thailand",
+            "id": 103
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 147,
+          "nb_days": 5,
+          "country": {
+            "code": "to",
+            "name": "Tonga",
+            "id": 128
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tt",
+            "name": "Trinidad and Tobago",
+            "id": 104
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "tn",
+            "name": "Tunisia",
+            "id": 167
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tm",
+            "name": "Turkmenistan",
+            "id": 106
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tc",
+            "name": "Turks and Caicos",
+            "id": 168
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "tr",
+            "name": "T\u00fcrkiye",
+            "id": 105
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ae",
+            "name": "UAE",
+            "id": 107
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ug",
+            "name": "Uganda",
+            "id": 108
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ua",
+            "name": "Ukraine",
+            "id": 109
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "uy",
+            "name": "Uruguay",
+            "id": 169
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "uz",
+            "name": "Uzbekistan",
+            "id": 112
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 147,
+          "nb_days": 5,
+          "country": {
+            "code": "vu",
+            "name": "Vanuatu",
+            "id": 129
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "ve",
+            "name": "Venezuela",
+            "id": 113
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 5,
+          "nb_tracks": 149,
+          "nb_days": 5,
+          "country": {
+            "code": "vn",
+            "name": "Vietnam",
+            "id": 114
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 4,
+          "nb_tracks": 143,
+          "nb_days": 5,
+          "country": {
+            "code": "ye",
+            "name": "Yemen",
+            "id": 170
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "zm",
+            "name": "Zambia",
+            "id": 130
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 7,
+          "nb_tracks": 74,
+          "nb_days": 5,
+          "country": {
+            "code": "zw",
+            "name": "Zimbabwe",
+            "id": 115
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 171,
+          "nb_days": 5,
+          "country": {
+            "code": "ca",
+            "name": "Canada",
+            "id": 20
+          }
+        }
+      ]
+    },
+    {
+      "position": 27,
+      "added_at": "2024-03-15",
+      "nb_tracks": 211,
+      "nb_days": 6,
+      "reentry": false,
+      "playlist": {
+        "name": "New in Dance",
+        "id": 66099,
+        "apple_id": "pl.9bd9accafe864654aac9f2dcceca5a69",
+        "slug": "new-in-dance",
+        "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features125\/v4\/f7\/c4\/b2\/f7c4b293-86c3-67ed-6fd0-50a2b4ed034c\/U0MtTVMtV1ctTmV3X0luX0RhbmNlLUFEQU1fSUQ9MTQ2NjEyMzY3MC5wbmc.png\/500x500SC.DN01.jpg?l=en-US",
+        "link": "https:\/\/www.spotontrack.com\/playlists\/apple\/66099",
+        "external_link": "https:\/\/music.apple.com\/us\/playlist\/new-in-dance\/pl.9bd9accafe864654aac9f2dcceca5a69",
+        "curator": {
+          "id": 13,
+          "name": "Apple Music Dance",
+          "link": "https:\/\/www.spotontrack.com\/curators\/apple\/13",
+          "apple_id": "976439535"
+        },
+        "tags": []
+      },
+      "countries": [
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "us",
+            "name": "United States",
+            "id": 111
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ai",
+            "name": "Anguilla",
+            "id": 1
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ag",
+            "name": "Antigua and Barbuda",
+            "id": 2
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ar",
+            "name": "Argentina",
+            "id": 3
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "bs",
+            "name": "Bahamas",
+            "id": 133
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "bb",
+            "name": "Barbados",
+            "id": 9
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "bz",
+            "name": "Belize",
+            "id": 12
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "bm",
+            "name": "Bermuda",
+            "id": 13
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "bt",
+            "name": "Bhutan",
+            "id": 135
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "bo",
+            "name": "Bolivia",
+            "id": 14
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "bw",
+            "name": "Botswana",
+            "id": 15
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 29,
+          "nb_tracks": 98,
+          "nb_days": 6,
+          "country": {
+            "code": "br",
+            "name": "Brazil",
+            "id": 16
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "vg",
+            "name": "British Virgin Islands",
+            "id": 17
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "kh",
+            "name": "Cambodia",
+            "id": 19
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ky",
+            "name": "Cayman Islands",
+            "id": 22
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "cl",
+            "name": "Chile",
+            "id": 23
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "co",
+            "name": "Colombia",
+            "id": 25
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "cr",
+            "name": "Costa Rica",
+            "id": 26
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "dm",
+            "name": "Dominica",
+            "id": 30
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "do",
+            "name": "Dominican Republic",
+            "id": 31
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ec",
+            "name": "Ecuador",
+            "id": 32
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "sv",
+            "name": "El Salvador",
+            "id": 34
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "sz",
+            "name": "Eswatini",
+            "id": 98
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "fj",
+            "name": "Fiji",
+            "id": 36
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "gd",
+            "name": "Grenada",
+            "id": 43
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "gt",
+            "name": "Guatemala",
+            "id": 44
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "gy",
+            "name": "Guyana",
+            "id": 140
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "hn",
+            "name": "Honduras",
+            "id": 46
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "hk",
+            "name": "Hong Kong",
+            "id": 47
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 39,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "in",
+            "name": "India",
+            "id": 49
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "id",
+            "name": "Indonesia",
+            "id": 50
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "jm",
+            "name": "Jamaica",
+            "id": 142
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "kr",
+            "name": "Korea, Republic of",
+            "id": 58
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "la",
+            "name": "Lao People's Democratic Republic",
+            "id": 60
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "mo",
+            "name": "Macao",
+            "id": 65
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "my",
+            "name": "Malaysia",
+            "id": 66
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "mu",
+            "name": "Mauritius",
+            "id": 68
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "mx",
+            "name": "Mexico",
+            "id": 69
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "fm",
+            "name": "Micronesia, Federated States of",
+            "id": 70
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "mn",
+            "name": "Mongolia",
+            "id": 72
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "ms",
+            "name": "Montserrat",
+            "id": 151
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "mm",
+            "name": "Myanmar",
+            "id": 153
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "na",
+            "name": "Namibia",
+            "id": 154
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 199,
+          "nb_days": 6,
+          "country": {
+            "code": "np",
+            "name": "Nepal",
+            "id": 73
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ni",
+            "name": "Nicaragua",
+            "id": 76
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "pa",
+            "name": "Panama",
+            "id": 81
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "pg",
+            "name": "Papua New Guinea",
+            "id": 82
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "py",
+            "name": "Paraguay",
+            "id": 83
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "pe",
+            "name": "Peru",
+            "id": 84
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ph",
+            "name": "Philippines",
+            "id": 85
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "sg",
+            "name": "Singapore",
+            "id": 91
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 209,
+          "nb_days": 6,
+          "country": {
+            "code": "sb",
+            "name": "Solomon Islands",
+            "id": 162
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "za",
+            "name": "South Africa",
+            "id": 94
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "lk",
+            "name": "Sri Lanka",
+            "id": 96
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "kn",
+            "name": "St. Kitts and Nevis",
+            "id": 97
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "lc",
+            "name": "St. Lucia",
+            "id": 163
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "vc",
+            "name": "St. Vincent and The Grenadines",
+            "id": 164
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "sr",
+            "name": "Suriname",
+            "id": 165
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "tw",
+            "name": "Taiwan",
+            "id": 101
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "th",
+            "name": "Thailand",
+            "id": 103
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 209,
+          "nb_days": 6,
+          "country": {
+            "code": "to",
+            "name": "Tonga",
+            "id": 128
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "tt",
+            "name": "Trinidad and Tobago",
+            "id": 104
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "tc",
+            "name": "Turks and Caicos",
+            "id": 168
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 210,
+          "nb_days": 6,
+          "country": {
+            "code": "uy",
+            "name": "Uruguay",
+            "id": 169
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 209,
+          "nb_days": 6,
+          "country": {
+            "code": "vu",
+            "name": "Vanuatu",
+            "id": 129
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "ve",
+            "name": "Venezuela",
+            "id": 113
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 27,
+          "nb_tracks": 211,
+          "nb_days": 6,
+          "country": {
+            "code": "vn",
+            "name": "Vietnam",
+            "id": 114
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "zm",
+            "name": "Zambia",
+            "id": 130
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 30,
+          "nb_tracks": 49,
+          "nb_days": 6,
+          "country": {
+            "code": "zw",
+            "name": "Zimbabwe",
+            "id": 115
+          }
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "added_at": "2024-03-15",
+      "nb_tracks": 100,
+      "nb_days": 6,
+      "reentry": false,
+      "playlist": {
+        "name": "Melodic Bass",
+        "id": 74418,
+        "apple_id": "pl.ae284909b4cd46528cf553d9437192e4",
+        "slug": "melodic-bass",
+        "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features126\/v4\/26\/1f\/d2\/261fd258-dd9f-b7b2-b2ef-3b55cf7cdd8d\/U0MtTVMtV1ctTWVsb2RpY19CYXNzLUFkYW1fSUQ9MTUyMzI1MDYxNS1Ob19Mb2dvLnBuZw.png\/500x500SC.DN01.jpg?l=en-US",
+        "link": "https:\/\/www.spotontrack.com\/playlists\/apple\/74418",
+        "external_link": "https:\/\/music.apple.com\/us\/playlist\/melodic-bass\/pl.ae284909b4cd46528cf553d9437192e4",
+        "curator": {
+          "id": 13,
+          "name": "Apple Music Dance",
+          "link": "https:\/\/www.spotontrack.com\/curators\/apple\/13",
+          "apple_id": "976439535"
+        },
+        "tags": []
+      },
+      "countries": [
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "us",
+            "name": "United States",
+            "id": 111
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "dz",
+            "name": "Algeria",
+            "id": 131
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ao",
+            "name": "Angola",
+            "id": 132
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ai",
+            "name": "Anguilla",
+            "id": 1
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ag",
+            "name": "Antigua and Barbuda",
+            "id": 2
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ar",
+            "name": "Argentina",
+            "id": 3
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "am",
+            "name": "Armenia",
+            "id": 4
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "au",
+            "name": "Australia",
+            "id": 5
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "at",
+            "name": "Austria",
+            "id": 6
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "az",
+            "name": "Azerbaijan",
+            "id": 7
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bs",
+            "name": "Bahamas",
+            "id": 133
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bh",
+            "name": "Bahrain",
+            "id": 8
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bb",
+            "name": "Barbados",
+            "id": 9
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 9,
+          "nb_tracks": 86,
+          "nb_days": 6,
+          "country": {
+            "code": "by",
+            "name": "Belarus",
+            "id": 10
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "be",
+            "name": "Belgium",
+            "id": 11
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bz",
+            "name": "Belize",
+            "id": 12
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bj",
+            "name": "Benin",
+            "id": 134
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bm",
+            "name": "Bermuda",
+            "id": 13
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bt",
+            "name": "Bhutan",
+            "id": 135
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bo",
+            "name": "Bolivia",
+            "id": 14
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ba",
+            "name": "Bosnia and Herzegovina",
+            "id": 117
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bw",
+            "name": "Botswana",
+            "id": 15
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "br",
+            "name": "Brazil",
+            "id": 16
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "vg",
+            "name": "British Virgin Islands",
+            "id": 17
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "bg",
+            "name": "Bulgaria",
+            "id": 18
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kh",
+            "name": "Cambodia",
+            "id": 19
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cm",
+            "name": "Cameroon",
+            "id": 136
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ca",
+            "name": "Canada",
+            "id": 20
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cv",
+            "name": "Cape Verde",
+            "id": 21
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ky",
+            "name": "Cayman Islands",
+            "id": 22
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "td",
+            "name": "Chad",
+            "id": 137
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cl",
+            "name": "Chile",
+            "id": 23
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "co",
+            "name": "Colombia",
+            "id": 25
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cr",
+            "name": "Costa Rica",
+            "id": 26
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "hr",
+            "name": "Croatia",
+            "id": 138
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cy",
+            "name": "Cyprus",
+            "id": 27
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cz",
+            "name": "Czech Republic",
+            "id": 28
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ci",
+            "name": "C\u00f4te d'Ivoire",
+            "id": 139
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cd",
+            "name": "Democratic Republic of the\u00a0Congo",
+            "id": 118
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "dk",
+            "name": "Denmark",
+            "id": 29
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "dm",
+            "name": "Dominica",
+            "id": 30
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "do",
+            "name": "Dominican Republic",
+            "id": 31
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ec",
+            "name": "Ecuador",
+            "id": 32
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "eg",
+            "name": "Egypt",
+            "id": 33
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sv",
+            "name": "El Salvador",
+            "id": 34
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ee",
+            "name": "Estonia",
+            "id": 35
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sz",
+            "name": "Eswatini",
+            "id": 98
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "fj",
+            "name": "Fiji",
+            "id": 36
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "fi",
+            "name": "Finland",
+            "id": 37
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "fr",
+            "name": "France",
+            "id": 38
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ga",
+            "name": "Gabon",
+            "id": 119
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gm",
+            "name": "Gambia",
+            "id": 39
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ge",
+            "name": "Georgia",
+            "id": 120
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "de",
+            "name": "Germany",
+            "id": 40
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gh",
+            "name": "Ghana",
+            "id": 41
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gr",
+            "name": "Greece",
+            "id": 42
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gd",
+            "name": "Grenada",
+            "id": 43
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gt",
+            "name": "Guatemala",
+            "id": 44
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gw",
+            "name": "Guinea-Bissau",
+            "id": 45
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gy",
+            "name": "Guyana",
+            "id": 140
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "hn",
+            "name": "Honduras",
+            "id": 46
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "hk",
+            "name": "Hong Kong",
+            "id": 47
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "hu",
+            "name": "Hungary",
+            "id": 48
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "is",
+            "name": "Iceland",
+            "id": 141
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "in",
+            "name": "India",
+            "id": 49
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "id",
+            "name": "Indonesia",
+            "id": 50
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "iq",
+            "name": "Iraq",
+            "id": 121
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ie",
+            "name": "Ireland",
+            "id": 51
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "il",
+            "name": "Israel",
+            "id": 52
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "it",
+            "name": "Italy",
+            "id": 53
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "jm",
+            "name": "Jamaica",
+            "id": 142
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "jp",
+            "name": "Japan",
+            "id": 54
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "jo",
+            "name": "Jordan",
+            "id": 55
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kz",
+            "name": "Kazakhstan",
+            "id": 56
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ke",
+            "name": "Kenya",
+            "id": 57
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kr",
+            "name": "Korea, Republic of",
+            "id": 58
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 8,
+          "nb_tracks": 58,
+          "nb_days": 6,
+          "country": {
+            "code": "xk",
+            "name": "Kosovo",
+            "id": 122
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kw",
+            "name": "Kuwait",
+            "id": 143
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kg",
+            "name": "Kyrgyzstan",
+            "id": 59
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "la",
+            "name": "Lao People's Democratic Republic",
+            "id": 60
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lv",
+            "name": "Latvia",
+            "id": 61
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lb",
+            "name": "Lebanon",
+            "id": 62
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lr",
+            "name": "Liberia",
+            "id": 144
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "ly",
+            "name": "Libya",
+            "id": 145
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lt",
+            "name": "Lithuania",
+            "id": 63
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lu",
+            "name": "Luxembourg",
+            "id": 64
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mo",
+            "name": "Macao",
+            "id": 65
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mg",
+            "name": "Madagascar",
+            "id": 146
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mw",
+            "name": "Malawi",
+            "id": 147
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "my",
+            "name": "Malaysia",
+            "id": 66
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "mv",
+            "name": "Maldives",
+            "id": 148
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ml",
+            "name": "Mali",
+            "id": 149
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mt",
+            "name": "Malta",
+            "id": 67
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mr",
+            "name": "Mauritania",
+            "id": 150
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mu",
+            "name": "Mauritius",
+            "id": 68
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mx",
+            "name": "Mexico",
+            "id": 69
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "fm",
+            "name": "Micronesia, Federated States of",
+            "id": 70
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "md",
+            "name": "Moldova",
+            "id": 71
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mn",
+            "name": "Mongolia",
+            "id": 72
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "me",
+            "name": "Montenegro",
+            "id": 124
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ms",
+            "name": "Montserrat",
+            "id": 151
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ma",
+            "name": "Morocco",
+            "id": 125
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mz",
+            "name": "Mozambique",
+            "id": 152
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mm",
+            "name": "Myanmar",
+            "id": 153
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "na",
+            "name": "Namibia",
+            "id": 154
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "np",
+            "name": "Nepal",
+            "id": 73
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "nl",
+            "name": "Netherlands",
+            "id": 74
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "nz",
+            "name": "New Zealand",
+            "id": 75
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ni",
+            "name": "Nicaragua",
+            "id": 76
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ne",
+            "name": "Niger",
+            "id": 77
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ng",
+            "name": "Nigeria",
+            "id": 78
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "mk",
+            "name": "North\u00a0Macedonia",
+            "id": 155
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "no",
+            "name": "Norway",
+            "id": 79
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "om",
+            "name": "Oman",
+            "id": 80
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "pa",
+            "name": "Panama",
+            "id": 81
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "pg",
+            "name": "Papua New Guinea",
+            "id": 82
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "py",
+            "name": "Paraguay",
+            "id": 83
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "pe",
+            "name": "Peru",
+            "id": 84
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ph",
+            "name": "Philippines",
+            "id": 85
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "pl",
+            "name": "Poland",
+            "id": 86
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "pt",
+            "name": "Portugal",
+            "id": 87
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "qa",
+            "name": "Qatar",
+            "id": 156
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "cg",
+            "name": "Republic of the\u00a0Congo",
+            "id": 157
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ro",
+            "name": "Romania",
+            "id": 88
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 90,
+          "nb_days": 6,
+          "country": {
+            "code": "ru",
+            "name": "Russia",
+            "id": 89
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "rw",
+            "name": "Rwanda",
+            "id": 127
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sa",
+            "name": "Saudi Arabia",
+            "id": 90
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sn",
+            "name": "Senegal",
+            "id": 158
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "rs",
+            "name": "Serbia",
+            "id": 159
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sc",
+            "name": "Seychelles",
+            "id": 160
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sl",
+            "name": "Sierra Leone",
+            "id": 161
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sg",
+            "name": "Singapore",
+            "id": 91
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sk",
+            "name": "Slovakia",
+            "id": 92
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "si",
+            "name": "Slovenia",
+            "id": 93
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sb",
+            "name": "Solomon Islands",
+            "id": 162
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "za",
+            "name": "South Africa",
+            "id": 94
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "es",
+            "name": "Spain",
+            "id": 95
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lk",
+            "name": "Sri Lanka",
+            "id": 96
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "kn",
+            "name": "St. Kitts and Nevis",
+            "id": 97
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "lc",
+            "name": "St. Lucia",
+            "id": 163
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "vc",
+            "name": "St. Vincent and The Grenadines",
+            "id": 164
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "sr",
+            "name": "Suriname",
+            "id": 165
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "se",
+            "name": "Sweden",
+            "id": 99
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ch",
+            "name": "Switzerland",
+            "id": 100
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tw",
+            "name": "Taiwan",
+            "id": 101
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tj",
+            "name": "Tajikistan",
+            "id": 102
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tz",
+            "name": "Tanzania",
+            "id": 166
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "th",
+            "name": "Thailand",
+            "id": 103
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "to",
+            "name": "Tonga",
+            "id": 128
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tt",
+            "name": "Trinidad and Tobago",
+            "id": 104
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "tn",
+            "name": "Tunisia",
+            "id": 167
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tm",
+            "name": "Turkmenistan",
+            "id": 106
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tc",
+            "name": "Turks and Caicos",
+            "id": 168
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "tr",
+            "name": "T\u00fcrkiye",
+            "id": 105
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ae",
+            "name": "UAE",
+            "id": 107
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ug",
+            "name": "Uganda",
+            "id": 108
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ua",
+            "name": "Ukraine",
+            "id": 109
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "gb",
+            "name": "United Kingdom",
+            "id": 110
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "uy",
+            "name": "Uruguay",
+            "id": 169
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "uz",
+            "name": "Uzbekistan",
+            "id": 112
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "vu",
+            "name": "Vanuatu",
+            "id": 129
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "ve",
+            "name": "Venezuela",
+            "id": 113
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "vn",
+            "name": "Vietnam",
+            "id": 114
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 10,
+          "nb_tracks": 94,
+          "nb_days": 6,
+          "country": {
+            "code": "ye",
+            "name": "Yemen",
+            "id": 170
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "zm",
+            "name": "Zambia",
+            "id": 130
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 11,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "zw",
+            "name": "Zimbabwe",
+            "id": 115
+          }
+        }
+      ]
+    },
+    {
+      "position": 17,
+      "added_at": "2024-03-15",
+      "nb_tracks": 142,
+      "nb_days": 6,
+      "reentry": false,
+      "playlist": {
+        "name": "B&L Fresh Batch Friday",
+        "id": 81537,
+        "apple_id": "pl.12a3f3ca60364b17876fb5cf61f0d6d5",
+        "slug": "b-l-fresh-batch-friday",
+        "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features126\/v4\/fc\/af\/cf\/fcafcf65-a8da-7b1d-ede3-ba33f25b6a57\/1a289fda-9bce-40c7-aa53-dc9e929ce331.png\/500x500cc.jpg",
+        "link": "https:\/\/www.spotontrack.com\/playlists\/apple\/81537",
+        "external_link": "https:\/\/music.apple.com\/us\/playlist\/b-l-fresh-batch-friday\/pl.12a3f3ca60364b17876fb5cf61f0d6d5",
+        "curator": {
+          "id": 2790,
+          "name": "Brownies & Lemonade",
+          "link": "https:\/\/www.spotontrack.com\/curators\/apple\/2790",
+          "apple_id": "1668250012"
+        },
+        "tags": []
+      },
+      "countries": [
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "us",
+            "name": "United States",
+            "id": 111
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "dz",
+            "name": "Algeria",
+            "id": 131
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ao",
+            "name": "Angola",
+            "id": 132
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ai",
+            "name": "Anguilla",
+            "id": 1
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ag",
+            "name": "Antigua and Barbuda",
+            "id": 2
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ar",
+            "name": "Argentina",
+            "id": 3
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "am",
+            "name": "Armenia",
+            "id": 4
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 140,
+          "nb_days": 6,
+          "country": {
+            "code": "au",
+            "name": "Australia",
+            "id": 5
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "at",
+            "name": "Austria",
+            "id": 6
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "az",
+            "name": "Azerbaijan",
+            "id": 7
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "bs",
+            "name": "Bahamas",
+            "id": 133
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bh",
+            "name": "Bahrain",
+            "id": 8
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "bb",
+            "name": "Barbados",
+            "id": 9
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 8,
+          "nb_tracks": 105,
+          "nb_days": 6,
+          "country": {
+            "code": "by",
+            "name": "Belarus",
+            "id": 10
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "be",
+            "name": "Belgium",
+            "id": 11
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "bz",
+            "name": "Belize",
+            "id": 12
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bj",
+            "name": "Benin",
+            "id": 134
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "bm",
+            "name": "Bermuda",
+            "id": 13
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bt",
+            "name": "Bhutan",
+            "id": 135
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bo",
+            "name": "Bolivia",
+            "id": 14
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ba",
+            "name": "Bosnia and Herzegovina",
+            "id": 117
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bw",
+            "name": "Botswana",
+            "id": 15
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "br",
+            "name": "Brazil",
+            "id": 16
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "vg",
+            "name": "British Virgin Islands",
+            "id": 17
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "bg",
+            "name": "Bulgaria",
+            "id": 18
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "kh",
+            "name": "Cambodia",
+            "id": 19
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cm",
+            "name": "Cameroon",
+            "id": 136
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ca",
+            "name": "Canada",
+            "id": 20
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cv",
+            "name": "Cape Verde",
+            "id": 21
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ky",
+            "name": "Cayman Islands",
+            "id": 22
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 16,
+          "nb_tracks": 128,
+          "nb_days": 6,
+          "country": {
+            "code": "td",
+            "name": "Chad",
+            "id": 137
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cl",
+            "name": "Chile",
+            "id": 23
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "co",
+            "name": "Colombia",
+            "id": 25
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "cr",
+            "name": "Costa Rica",
+            "id": 26
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "hr",
+            "name": "Croatia",
+            "id": 138
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cy",
+            "name": "Cyprus",
+            "id": 27
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cz",
+            "name": "Czech Republic",
+            "id": 28
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ci",
+            "name": "C\u00f4te d'Ivoire",
+            "id": 139
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cd",
+            "name": "Democratic Republic of the\u00a0Congo",
+            "id": 118
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "dk",
+            "name": "Denmark",
+            "id": 29
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "dm",
+            "name": "Dominica",
+            "id": 30
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "do",
+            "name": "Dominican Republic",
+            "id": 31
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ec",
+            "name": "Ecuador",
+            "id": 32
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "eg",
+            "name": "Egypt",
+            "id": 33
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "sv",
+            "name": "El Salvador",
+            "id": 34
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ee",
+            "name": "Estonia",
+            "id": 35
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sz",
+            "name": "Eswatini",
+            "id": 98
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "fj",
+            "name": "Fiji",
+            "id": 36
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "fi",
+            "name": "Finland",
+            "id": 37
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "fr",
+            "name": "France",
+            "id": 38
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ga",
+            "name": "Gabon",
+            "id": 119
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gm",
+            "name": "Gambia",
+            "id": 39
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ge",
+            "name": "Georgia",
+            "id": 120
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "de",
+            "name": "Germany",
+            "id": 40
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gh",
+            "name": "Ghana",
+            "id": 41
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gr",
+            "name": "Greece",
+            "id": 42
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "gd",
+            "name": "Grenada",
+            "id": 43
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "gt",
+            "name": "Guatemala",
+            "id": 44
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gw",
+            "name": "Guinea-Bissau",
+            "id": 45
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gy",
+            "name": "Guyana",
+            "id": 140
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "hn",
+            "name": "Honduras",
+            "id": 46
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "hk",
+            "name": "Hong Kong",
+            "id": 47
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "hu",
+            "name": "Hungary",
+            "id": 48
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "is",
+            "name": "Iceland",
+            "id": 141
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "in",
+            "name": "India",
+            "id": 49
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "id",
+            "name": "Indonesia",
+            "id": 50
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "iq",
+            "name": "Iraq",
+            "id": 121
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ie",
+            "name": "Ireland",
+            "id": 51
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "il",
+            "name": "Israel",
+            "id": 52
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "it",
+            "name": "Italy",
+            "id": 53
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "jm",
+            "name": "Jamaica",
+            "id": 142
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "jp",
+            "name": "Japan",
+            "id": 54
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "jo",
+            "name": "Jordan",
+            "id": 55
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "kz",
+            "name": "Kazakhstan",
+            "id": 56
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ke",
+            "name": "Kenya",
+            "id": 57
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "kr",
+            "name": "Korea, Republic of",
+            "id": 58
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 14,
+          "nb_tracks": 100,
+          "nb_days": 6,
+          "country": {
+            "code": "xk",
+            "name": "Kosovo",
+            "id": 122
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "kw",
+            "name": "Kuwait",
+            "id": 143
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "kg",
+            "name": "Kyrgyzstan",
+            "id": 59
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "la",
+            "name": "Lao People's Democratic Republic",
+            "id": 60
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lv",
+            "name": "Latvia",
+            "id": 61
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lb",
+            "name": "Lebanon",
+            "id": 62
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lr",
+            "name": "Liberia",
+            "id": 144
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 16,
+          "nb_tracks": 128,
+          "nb_days": 6,
+          "country": {
+            "code": "ly",
+            "name": "Libya",
+            "id": 145
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lt",
+            "name": "Lithuania",
+            "id": 63
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lu",
+            "name": "Luxembourg",
+            "id": 64
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mo",
+            "name": "Macao",
+            "id": 65
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mg",
+            "name": "Madagascar",
+            "id": 146
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mw",
+            "name": "Malawi",
+            "id": 147
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "my",
+            "name": "Malaysia",
+            "id": 66
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 16,
+          "nb_tracks": 128,
+          "nb_days": 6,
+          "country": {
+            "code": "mv",
+            "name": "Maldives",
+            "id": 148
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ml",
+            "name": "Mali",
+            "id": 149
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mt",
+            "name": "Malta",
+            "id": 67
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mr",
+            "name": "Mauritania",
+            "id": 150
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mu",
+            "name": "Mauritius",
+            "id": 68
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "mx",
+            "name": "Mexico",
+            "id": 69
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "fm",
+            "name": "Micronesia, Federated States of",
+            "id": 70
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "md",
+            "name": "Moldova",
+            "id": 71
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mn",
+            "name": "Mongolia",
+            "id": 72
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "me",
+            "name": "Montenegro",
+            "id": 124
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ms",
+            "name": "Montserrat",
+            "id": 151
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ma",
+            "name": "Morocco",
+            "id": 125
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mz",
+            "name": "Mozambique",
+            "id": 152
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mm",
+            "name": "Myanmar",
+            "id": 153
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "na",
+            "name": "Namibia",
+            "id": 154
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 15,
+          "nb_tracks": 126,
+          "nb_days": 6,
+          "country": {
+            "code": "np",
+            "name": "Nepal",
+            "id": 73
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "nl",
+            "name": "Netherlands",
+            "id": 74
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 140,
+          "nb_days": 6,
+          "country": {
+            "code": "nz",
+            "name": "New Zealand",
+            "id": 75
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "ni",
+            "name": "Nicaragua",
+            "id": 76
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ne",
+            "name": "Niger",
+            "id": 77
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ng",
+            "name": "Nigeria",
+            "id": 78
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "mk",
+            "name": "North\u00a0Macedonia",
+            "id": 155
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "no",
+            "name": "Norway",
+            "id": 79
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "om",
+            "name": "Oman",
+            "id": 80
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "pa",
+            "name": "Panama",
+            "id": 81
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "pg",
+            "name": "Papua New Guinea",
+            "id": 82
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "py",
+            "name": "Paraguay",
+            "id": 83
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "pe",
+            "name": "Peru",
+            "id": 84
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ph",
+            "name": "Philippines",
+            "id": 85
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "pl",
+            "name": "Poland",
+            "id": 86
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "pt",
+            "name": "Portugal",
+            "id": 87
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "qa",
+            "name": "Qatar",
+            "id": 156
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "cg",
+            "name": "Republic of the\u00a0Congo",
+            "id": 157
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ro",
+            "name": "Romania",
+            "id": 88
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 8,
+          "nb_tracks": 108,
+          "nb_days": 6,
+          "country": {
+            "code": "ru",
+            "name": "Russia",
+            "id": 89
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "rw",
+            "name": "Rwanda",
+            "id": 127
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sa",
+            "name": "Saudi Arabia",
+            "id": 90
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sn",
+            "name": "Senegal",
+            "id": 158
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "rs",
+            "name": "Serbia",
+            "id": 159
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sc",
+            "name": "Seychelles",
+            "id": 160
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sl",
+            "name": "Sierra Leone",
+            "id": 161
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sg",
+            "name": "Singapore",
+            "id": 91
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sk",
+            "name": "Slovakia",
+            "id": 92
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "si",
+            "name": "Slovenia",
+            "id": 93
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sb",
+            "name": "Solomon Islands",
+            "id": 162
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "za",
+            "name": "South Africa",
+            "id": 94
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "es",
+            "name": "Spain",
+            "id": 95
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "lk",
+            "name": "Sri Lanka",
+            "id": 96
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "kn",
+            "name": "St. Kitts and Nevis",
+            "id": 97
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "lc",
+            "name": "St. Lucia",
+            "id": 163
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "vc",
+            "name": "St. Vincent and The Grenadines",
+            "id": 164
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "sr",
+            "name": "Suriname",
+            "id": 165
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "se",
+            "name": "Sweden",
+            "id": 99
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ch",
+            "name": "Switzerland",
+            "id": 100
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "tw",
+            "name": "Taiwan",
+            "id": 101
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "tj",
+            "name": "Tajikistan",
+            "id": 102
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "tz",
+            "name": "Tanzania",
+            "id": 166
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "th",
+            "name": "Thailand",
+            "id": 103
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "to",
+            "name": "Tonga",
+            "id": 128
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "tt",
+            "name": "Trinidad and Tobago",
+            "id": 104
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 16,
+          "nb_tracks": 128,
+          "nb_days": 6,
+          "country": {
+            "code": "tn",
+            "name": "Tunisia",
+            "id": 167
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "tm",
+            "name": "Turkmenistan",
+            "id": 106
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 142,
+          "nb_days": 6,
+          "country": {
+            "code": "tc",
+            "name": "Turks and Caicos",
+            "id": 168
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "tr",
+            "name": "T\u00fcrkiye",
+            "id": 105
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ae",
+            "name": "UAE",
+            "id": 107
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ug",
+            "name": "Uganda",
+            "id": 108
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ua",
+            "name": "Ukraine",
+            "id": 109
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "gb",
+            "name": "United Kingdom",
+            "id": 110
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "uy",
+            "name": "Uruguay",
+            "id": 169
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 15,
+          "nb_tracks": 126,
+          "nb_days": 6,
+          "country": {
+            "code": "uz",
+            "name": "Uzbekistan",
+            "id": 112
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "vu",
+            "name": "Vanuatu",
+            "id": 129
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "ve",
+            "name": "Venezuela",
+            "id": 113
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "vn",
+            "name": "Vietnam",
+            "id": 114
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 16,
+          "nb_tracks": 128,
+          "nb_days": 6,
+          "country": {
+            "code": "ye",
+            "name": "Yemen",
+            "id": 170
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "zm",
+            "name": "Zambia",
+            "id": 130
+          }
+        },
+        {
+          "added_at": "2024-03-15",
+          "position": 17,
+          "nb_tracks": 141,
+          "nb_days": 6,
+          "country": {
+            "code": "zw",
+            "name": "Zimbabwe",
+            "id": 115
+          }
+        }
+      ]
+    }
+  ],
+  "computedAgo": "39 minutes ago"
+}
