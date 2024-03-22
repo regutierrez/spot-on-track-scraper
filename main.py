@@ -12,7 +12,7 @@ def spotontrack_login(username: str, password: str) -> requests.Session:
     # might need to add this as arg for session.get in the future
     """
     user_agent: str = (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/89.0.142.86"
     )
 
     headers: dict[str, str] = {"User-Agent": user_agent}
