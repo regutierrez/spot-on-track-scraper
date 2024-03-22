@@ -104,7 +104,7 @@ def scrape_countries_from_url(session: requests.Session, playlist_urls: list[str
 
 def write_to_file(urls: list[str], playlist_countries: list[str]) -> None:
     print("writing data to output.txt...")
-    with open("output.txt", "a") as f:
+    with open("output.txt", "w") as f:
         for url in urls:
             f.write("=======SONG=======\n")
             f.write(f"{url}\n")
