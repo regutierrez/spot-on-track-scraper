@@ -23,6 +23,7 @@ def spotontrack_login(username: str, password: str) -> requests.Session:
     if response_content is None:
         raise Exception("Website HTML contents not found. Quitting script")
 
+    print("session established successfully! finding auth token for login")
     html: bs = bs(response_content, "html.parser")
     auth_token_tag: Tag | NavigableString | None = html.find(
         "input", attrs={"name": "_token"}
@@ -38,6 +39,7 @@ def spotontrack_login(username: str, password: str) -> requests.Session:
     if auth_token is None or auth_token == "":
         raise Exception("CSRF token not found. Quitting script...")
 
+    print("successfully found auth token! logging in...")
     payload: dict[str, str] = {
         "email": username,
         "password": password,
@@ -69,9 +71,10 @@ def scrape_countries_from_url(session: requests.Session, playlist_urls: list[str
     playlist_countries_strings: list[str] = []
 
     for url in api_urls:
-        print("scraping countries from url: ", url)
+        print(f"scraping countries from url: {url}\nPlease wait...")
         # preventative measure to avoid being blocked by spotontrack
-        time.sleep(10)
+        time.sleep(15)
+        print("requesting connection to api URL...")
         url_json: requests.Response = session.get(url)
         if url_json.status_code != 200:
             raise Exception("Request failed. Please check API URL. Quitting script...")
@@ -79,25 +82,35 @@ def scrape_countries_from_url(session: requests.Session, playlist_urls: list[str
         for pl in playlists:
             try:
                 playlist_name: str = pl["playlist"]["name"]
-                countries: str = ",".join(
-                    [ct["country"]["code"].upper() for ct in pl["countries"]]
+                countries: list[str] = [
+                    ct["country"]["code"].upper() for ct in pl["countries"]
+                ]
+                print(f"{len(countries)} countries found for playlist: {playlist_name}")
+                countries_string: str = ",".join(countries)
+                playlist_countries_strings.append(
+                    f"{playlist_name}\n{countries_string}"
                 )
-                playlist_countries_strings.append(f"{playlist_name}\n{countries}")
             except Exception as e:
                 print(
                     "There is something wrong while navigating the json file. Please see error details\n",
                     e,
                 )
+        print("done scraping countries from url: ", url)
+        print("====================================")
 
+    print("done scraping countries from urls...\n")
     return playlist_countries_strings
 
 
 def write_to_file(urls: list[str], playlist_countries: list[str]) -> None:
+    print("writing data to output.txt...")
     with open("output.txt", "a") as f:
         for url in urls:
+            f.write("=======SONG=======\n")
             f.write(f"{url}\n")
             for pc_string in playlist_countries:
-                f.write(f"{pc_string}\n")
+                f.write(f"{pc_string}\n\n")
+        f.write("\n")
 
 
 def main():
