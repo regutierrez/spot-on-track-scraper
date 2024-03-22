@@ -1,3 +1,5 @@
+import re
+import time
 import requests
 from bs4 import NavigableString, Tag
 from bs4 import BeautifulSoup as bs
@@ -47,31 +49,55 @@ def spotontrack_login(username: str, password: str) -> requests.Session:
     if login.status_code != 200:
         raise Exception("Login failed. Quitting script...")
 
+    print("login successful! proceeding with scraping...")
     return session
 
 
-def get_html_from_playlist_urls(
-    session: requests.Session, playlist_urls: list[str]
-) -> list[bs]:
-    html_list: list[bs] = []
-    # this should accept a list of playlist urls and current session
-    for url in playlist_urls:
-        response_content: bytes | None = session.get(url)._content
-        if response_content is None:
-            raise Exception(f"HTML contents of {url} not found. Quitting script")
-        html_list.append(bs(response_content, "html.parser"))
-
-    return html_list
+def convert_urls_to_api_urls(urls: list[str]) -> list[str]:
+    api_urls: list[str] = []
+    for url in urls:
+        # https://www.spotontrack.com/api/tracks/.../current/apple is the api url we want
+        api_url: str = re.sub("tracks", "api/tracks", url)
+        api_url = api_url + "/current/apple"
+        api_urls.append(api_url)
+    print("urls converted to api urls\n", api_urls)
+    return api_urls
 
 
-def scrape_countries_from_html(html_list: list[bs]) -> list[str]:
-    # this should accept a str containing the html of the site.
-    # you can get the country code from the src="...AU.png"
-    # test site to scrape = https://www.spotontrack.com/tracks/104662726/playlists
+def scrape_countries_from_url(session: requests.Session, playlist_urls: list[str]):
+    api_urls: list[str] = convert_urls_to_api_urls(playlist_urls)
+    playlist_countries_strings: list[str] = []
 
-    countries: list[str] = []
+    for url in api_urls:
+        print("scraping countries from url: ", url)
+        # preventative measure to avoid being blocked by spotontrack
+        time.sleep(10)
+        url_json: requests.Response = session.get(url)
+        if url_json.status_code != 200:
+            raise Exception("Request failed. Please check API URL. Quitting script...")
+        playlists: list = url_json.json()["appleCurrent"]
+        for pl in playlists:
+            try:
+                playlist_name: str = pl["playlist"]["name"]
+                countries: str = ",".join(
+                    [ct["country"]["code"].upper() for ct in pl["countries"]]
+                )
+                playlist_countries_strings.append(f"{playlist_name}\n{countries}")
+            except Exception as e:
+                print(
+                    "There is something wrong while navigating the json file. Please see error details\n",
+                    e,
+                )
 
-    return countries
+    return playlist_countries_strings
+
+
+def write_to_file(urls: list[str], playlist_countries: list[str]) -> None:
+    with open("output.txt", "a") as f:
+        for url in urls:
+            f.write(f"{url}\n")
+            for pc_string in playlist_countries:
+                f.write(f"{pc_string}\n")
 
 
 def main():
@@ -79,9 +105,15 @@ def main():
     password: str = "decode-armoire-recopy9-donut-unmanaged"
     try:
         session: requests.Session = spotontrack_login(username, password)
-
     except Exception as e:
         print(e)
+        exit()
+
+    playlist_urls: list[str] = [
+        "https://www.spotontrack.com/tracks/104662726/playlists",
+        "https://www.spotontrack.com/tracks/104676283/playlists",
+    ]
+    write_to_file(playlist_urls, scrape_countries_from_url(session, playlist_urls))
 
 
 if __name__ == "__main__":
