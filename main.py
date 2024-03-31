@@ -1,8 +1,12 @@
+import os
 import re
+from dotenv import load_dotenv
 import time
 import requests
 from bs4 import NavigableString, Tag
 from bs4 import BeautifulSoup as bs
+
+load_dotenv()
 
 
 def spotontrack_login(username: str, password: str) -> requests.Session:
@@ -114,19 +118,29 @@ def write_to_file(urls: list[str], playlist_countries: list[str]) -> None:
 
 
 def main():
-    username: str = "gutierrez.rafael23e@gmail.com"
-    password: str = "decode-armoire-recopy9-donut-unmanaged"
+    username: str | None = os.getenv("SPOTONTRACK_USERNAME")
+    password: str | None = os.getenv("SPOTONTRACK_PASSWORD")
+
+    if username is None or password is None:
+        raise Exception("Credentials not found. Please check env file.")
+        exit()
+
     try:
         session: requests.Session = spotontrack_login(username, password)
     except Exception as e:
         print(e)
         exit()
 
-    playlist_urls: list[str] = [
-        "https://www.spotontrack.com/tracks/104662726/playlists",
-        "https://www.spotontrack.com/tracks/104676283/playlists",
-    ]
-    write_to_file(playlist_urls, scrape_countries_from_url(session, playlist_urls))
+    playlist_urls: str | None = os.getenv("PLAYLIST_URLS")
+    if playlist_urls is None:
+        raise Exception("Playlist URLs not found. Please check env file.")
+        exit()
+    else:
+        playlist_urls_list: list[str] = playlist_urls.split(",")
+
+    write_to_file(
+        playlist_urls_list, scrape_countries_from_url(session, playlist_urls_list)
+    )
 
 
 if __name__ == "__main__":
