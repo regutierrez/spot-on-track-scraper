@@ -128,13 +128,12 @@ def main():
     try:
         session: requests.Session = spotontrack_login(username, password)
     except Exception as e:
-        print(e)
-        exit()
+        raise Exception(e)
 
     playlist_urls: str | None = os.getenv("PLAYLIST_URLS")
+
     if playlist_urls is None:
         raise Exception("Playlist URLs not found. Please check env file.")
-        exit()
     else:
         playlist_urls_list: list[str] = playlist_urls.split(",")
 
